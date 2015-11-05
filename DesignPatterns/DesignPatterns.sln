@@ -1,0 +1,364 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{7B0A5378-A6B2-4E70-8092-5F7415D3B925}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{3E4DB178-1134-4833-BE97-E22F63386298}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RealWorld", "RealWorld", "{7887B4AC-6072-47E8-B89D-076A06229753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\CommandPattern\CommandPattern.csproj", "{DF37EBEE-4127-41CD-950B-C66452248FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\InterpreterPattern\InterpreterPattern.csproj", "{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\IteratorPattren\IteratorPattern.csproj", "{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\MediatorPattern\MediatorPattern.csproj", "{251ED4EC-1EE5-4381-86B2-B058C9D299CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\MementoPattern\MementoPattern.csproj", "{B593F267-7CD7-4134-9CE0-8E7F97F352DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\ObserverPattern\ObserverPattern.csproj", "{68426E71-F69D-414F-8222-B3AF66C40DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\StatePattern\StatePattern.csproj", "{5709C0A8-9F9B-40CE-8157-38DA822BD769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\StrategyPattern\StrategyPattern.csproj", "{8C125B01-C996-4DD5-9A97-43267818C747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\TemplatePattern\TemplateMethodPattern.csproj", "{43B02E22-AE63-419E-85A4-DC91B06A4C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_StructuralCodeExamples\VisitorPattern\VisitorPattern.csproj", "{402234DD-FD3F-46BC-9B75-8485961AE439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{0D64ECE2-2350-4FCF-99A6-169298BA61E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\CommandPattern\CommandPattern.csproj", "{89EB30EE-02CD-4243-8215-43989BA6A080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\InterpreterPattern\InterpreterPattern.csproj", "{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\IteratorPattern\IteratorPattern.csproj", "{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\MediatorPattern\MediatorPattern.csproj", "{66009B9A-4453-4784-9717-C2D767151CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\MementoPattern\MementoPattern.csproj", "{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\ObserverPattern\ObserverPattern.csproj", "{243984EE-BB7F-4CD9-B18E-3D415137FF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\StatePattern\StatePattern.csproj", "{69942EED-AE30-4BBC-971C-4CA567B9FC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\StrategyPattern\StrategyPattern.csproj", "{DA1AAC84-3BF3-4F26-B377-69B4118BCA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\TemplateMethodPattern\TemplateMethodPattern.csproj", "{1E764C39-589D-4B3E-A093-AF217DC1734D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistorPattern", "..\..\..\..\..\..\Technical\Design patterns\Behavioral Patterns\BehavioralPatterns_RealWorldExamples\VistorPattern\VistorPattern.csproj", "{40BFC08A-E941-4C76-8FC2-80BBE706789F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{33E1F8EA-ED58-4A67-BFC6-6824CE731488}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{59A105FB-15CC-431E-8E80-33EAB4B4F315}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{393D8DF7-4F4B-4A10-98BE-87805EC14BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_Structural\AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_Structural\FactoryMethodPattern\FactoryMethod.csproj", "{6060AE43-61B2-4FF8-8DC4-3372C012C332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_Structural\BuilderPattern\BuilderPattern.csproj", "{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_Structural\PrototypePattern\PrototypePattern.csproj", "{45913C08-74C0-463E-9B3F-F6856C40B628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_Structural\SingletonPattern\SingletonPattern.csproj", "{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{366ECB83-1B7E-49CF-A4D3-D3D7169623D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RealWorld", "RealWorld", "{3863A0DE-C922-4A92-B3F1-874843FFFE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_RealWorldExamples\AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{4851181C-36C9-43AF-A069-78DB1B26FE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_RealWorldExamples\BuilderPattern\BuilderPattern.csproj", "{69B8252F-200A-47AF-BF32-E8050563CC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_RealWorldExamples\FactoryMethodPattern\FactoryMethodPattern.csproj", "{AC7D400D-18A0-4B54-93A8-A3DE999AD572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_RealWorldExamples\PrototypePattern\PrototypePattern.csproj", "{7CB410DB-C71B-4021-9334-B2836343FB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "..\..\..\..\..\..\Technical\Design patterns\Creational Patterns\Creational_RealWorldExamples\SingletonPattern\SingletonPattern.csproj", "{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural_Examples", "Structural_Examples", "{CD85F2FD-46A1-412C-9760-B94DC4759F00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Real_World_Examples", "Real_World_Examples", "{2B3660E0-B664-422A-97D7-CD99CA94F9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\AdapterPattern\AdapterPattern.csproj", "{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\BridgePattern\BridgePattern.csproj", "{D9E98774-F23E-417A-BE08-2746DCE3CF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\CompositePattern\CompositePattern.csproj", "{B5E854A0-16CB-48BF-8446-2841A80524D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\DecoratorPattern\DecoratorPattern.csproj", "{0B197FF7-8D75-4B18-8162-D17130E07E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\FacadePattern\FacadePattern.csproj", "{3B028C35-2F67-4741-95E9-8B85AAEAB23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\FlyweightPattern\FlyweightPattern.csproj", "{BB47ED16-E564-4CB0-8566-38FCBD680FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_RealWorldExamples\ProxyPattern\ProxyPattern.csproj", "{553219C1-1067-4E8F-985B-B3B39FE76DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\AdapterPattern\AdapterPattern.csproj", "{4EC4023A-FD50-4D96-A874-3FE78FC12374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\BridgePattern\BridgePattern.csproj", "{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\CompositePattern\CompositePattern.csproj", "{7539B299-3B20-40DC-BD66-5B2C93CECC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\DecoratorPattern\DecoratorPattern.csproj", "{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\FacadePattern\FacadePattern.csproj", "{802629CC-6983-4827-AE2C-E98FD454AAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\FlyweightPattern\FlyweightPattern.csproj", "{493835AE-B81B-466A-9EE1-AE1649944F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "..\..\..\..\..\..\Technical\Design patterns\Structural Patterns\StructuralPatterns_StructuralCodeExamples\ProxyPattern\ProxyPattern.csproj", "{2BDCC846-9BA5-41E4-B890-E608B970FD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0A5378-A6B2-4E70-8092-5F7415D3B925}.Debug|x86.ActiveCfg = Debug|x86
+		{7B0A5378-A6B2-4E70-8092-5F7415D3B925}.Debug|x86.Build.0 = Debug|x86
+		{7B0A5378-A6B2-4E70-8092-5F7415D3B925}.Release|x86.ActiveCfg = Release|x86
+		{7B0A5378-A6B2-4E70-8092-5F7415D3B925}.Release|x86.Build.0 = Release|x86
+		{DF37EBEE-4127-41CD-950B-C66452248FAA}.Debug|x86.ActiveCfg = Debug|x86
+		{DF37EBEE-4127-41CD-950B-C66452248FAA}.Debug|x86.Build.0 = Debug|x86
+		{DF37EBEE-4127-41CD-950B-C66452248FAA}.Release|x86.ActiveCfg = Release|x86
+		{DF37EBEE-4127-41CD-950B-C66452248FAA}.Release|x86.Build.0 = Release|x86
+		{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D}.Debug|x86.ActiveCfg = Debug|x86
+		{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D}.Debug|x86.Build.0 = Debug|x86
+		{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D}.Release|x86.ActiveCfg = Release|x86
+		{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D}.Release|x86.Build.0 = Release|x86
+		{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0}.Debug|x86.ActiveCfg = Debug|x86
+		{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0}.Debug|x86.Build.0 = Debug|x86
+		{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0}.Release|x86.ActiveCfg = Release|x86
+		{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0}.Release|x86.Build.0 = Release|x86
+		{251ED4EC-1EE5-4381-86B2-B058C9D299CA}.Debug|x86.ActiveCfg = Debug|x86
+		{251ED4EC-1EE5-4381-86B2-B058C9D299CA}.Debug|x86.Build.0 = Debug|x86
+		{251ED4EC-1EE5-4381-86B2-B058C9D299CA}.Release|x86.ActiveCfg = Release|x86
+		{251ED4EC-1EE5-4381-86B2-B058C9D299CA}.Release|x86.Build.0 = Release|x86
+		{B593F267-7CD7-4134-9CE0-8E7F97F352DB}.Debug|x86.ActiveCfg = Debug|x86
+		{B593F267-7CD7-4134-9CE0-8E7F97F352DB}.Debug|x86.Build.0 = Debug|x86
+		{B593F267-7CD7-4134-9CE0-8E7F97F352DB}.Release|x86.ActiveCfg = Release|x86
+		{B593F267-7CD7-4134-9CE0-8E7F97F352DB}.Release|x86.Build.0 = Release|x86
+		{68426E71-F69D-414F-8222-B3AF66C40DFB}.Debug|x86.ActiveCfg = Debug|x86
+		{68426E71-F69D-414F-8222-B3AF66C40DFB}.Debug|x86.Build.0 = Debug|x86
+		{68426E71-F69D-414F-8222-B3AF66C40DFB}.Release|x86.ActiveCfg = Release|x86
+		{68426E71-F69D-414F-8222-B3AF66C40DFB}.Release|x86.Build.0 = Release|x86
+		{5709C0A8-9F9B-40CE-8157-38DA822BD769}.Debug|x86.ActiveCfg = Debug|x86
+		{5709C0A8-9F9B-40CE-8157-38DA822BD769}.Debug|x86.Build.0 = Debug|x86
+		{5709C0A8-9F9B-40CE-8157-38DA822BD769}.Release|x86.ActiveCfg = Release|x86
+		{5709C0A8-9F9B-40CE-8157-38DA822BD769}.Release|x86.Build.0 = Release|x86
+		{8C125B01-C996-4DD5-9A97-43267818C747}.Debug|x86.ActiveCfg = Debug|x86
+		{8C125B01-C996-4DD5-9A97-43267818C747}.Debug|x86.Build.0 = Debug|x86
+		{8C125B01-C996-4DD5-9A97-43267818C747}.Release|x86.ActiveCfg = Release|x86
+		{8C125B01-C996-4DD5-9A97-43267818C747}.Release|x86.Build.0 = Release|x86
+		{43B02E22-AE63-419E-85A4-DC91B06A4C33}.Debug|x86.ActiveCfg = Debug|x86
+		{43B02E22-AE63-419E-85A4-DC91B06A4C33}.Debug|x86.Build.0 = Debug|x86
+		{43B02E22-AE63-419E-85A4-DC91B06A4C33}.Release|x86.ActiveCfg = Release|x86
+		{43B02E22-AE63-419E-85A4-DC91B06A4C33}.Release|x86.Build.0 = Release|x86
+		{402234DD-FD3F-46BC-9B75-8485961AE439}.Debug|x86.ActiveCfg = Debug|x86
+		{402234DD-FD3F-46BC-9B75-8485961AE439}.Debug|x86.Build.0 = Debug|x86
+		{402234DD-FD3F-46BC-9B75-8485961AE439}.Release|x86.ActiveCfg = Release|x86
+		{402234DD-FD3F-46BC-9B75-8485961AE439}.Release|x86.Build.0 = Release|x86
+		{0D64ECE2-2350-4FCF-99A6-169298BA61E4}.Debug|x86.ActiveCfg = Debug|x86
+		{0D64ECE2-2350-4FCF-99A6-169298BA61E4}.Debug|x86.Build.0 = Debug|x86
+		{0D64ECE2-2350-4FCF-99A6-169298BA61E4}.Release|x86.ActiveCfg = Release|x86
+		{0D64ECE2-2350-4FCF-99A6-169298BA61E4}.Release|x86.Build.0 = Release|x86
+		{89EB30EE-02CD-4243-8215-43989BA6A080}.Debug|x86.ActiveCfg = Debug|x86
+		{89EB30EE-02CD-4243-8215-43989BA6A080}.Debug|x86.Build.0 = Debug|x86
+		{89EB30EE-02CD-4243-8215-43989BA6A080}.Release|x86.ActiveCfg = Release|x86
+		{89EB30EE-02CD-4243-8215-43989BA6A080}.Release|x86.Build.0 = Release|x86
+		{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F}.Debug|x86.ActiveCfg = Debug|x86
+		{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F}.Debug|x86.Build.0 = Debug|x86
+		{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F}.Release|x86.ActiveCfg = Release|x86
+		{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F}.Release|x86.Build.0 = Release|x86
+		{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F}.Debug|x86.ActiveCfg = Debug|x86
+		{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F}.Debug|x86.Build.0 = Debug|x86
+		{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F}.Release|x86.ActiveCfg = Release|x86
+		{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F}.Release|x86.Build.0 = Release|x86
+		{66009B9A-4453-4784-9717-C2D767151CB5}.Debug|x86.ActiveCfg = Debug|x86
+		{66009B9A-4453-4784-9717-C2D767151CB5}.Debug|x86.Build.0 = Debug|x86
+		{66009B9A-4453-4784-9717-C2D767151CB5}.Release|x86.ActiveCfg = Release|x86
+		{66009B9A-4453-4784-9717-C2D767151CB5}.Release|x86.Build.0 = Release|x86
+		{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196}.Debug|x86.ActiveCfg = Debug|x86
+		{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196}.Debug|x86.Build.0 = Debug|x86
+		{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196}.Release|x86.ActiveCfg = Release|x86
+		{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196}.Release|x86.Build.0 = Release|x86
+		{243984EE-BB7F-4CD9-B18E-3D415137FF23}.Debug|x86.ActiveCfg = Debug|x86
+		{243984EE-BB7F-4CD9-B18E-3D415137FF23}.Debug|x86.Build.0 = Debug|x86
+		{243984EE-BB7F-4CD9-B18E-3D415137FF23}.Release|x86.ActiveCfg = Release|x86
+		{243984EE-BB7F-4CD9-B18E-3D415137FF23}.Release|x86.Build.0 = Release|x86
+		{69942EED-AE30-4BBC-971C-4CA567B9FC8D}.Debug|x86.ActiveCfg = Debug|x86
+		{69942EED-AE30-4BBC-971C-4CA567B9FC8D}.Debug|x86.Build.0 = Debug|x86
+		{69942EED-AE30-4BBC-971C-4CA567B9FC8D}.Release|x86.ActiveCfg = Release|x86
+		{69942EED-AE30-4BBC-971C-4CA567B9FC8D}.Release|x86.Build.0 = Release|x86
+		{DA1AAC84-3BF3-4F26-B377-69B4118BCA21}.Debug|x86.ActiveCfg = Debug|x86
+		{DA1AAC84-3BF3-4F26-B377-69B4118BCA21}.Debug|x86.Build.0 = Debug|x86
+		{DA1AAC84-3BF3-4F26-B377-69B4118BCA21}.Release|x86.ActiveCfg = Release|x86
+		{DA1AAC84-3BF3-4F26-B377-69B4118BCA21}.Release|x86.Build.0 = Release|x86
+		{1E764C39-589D-4B3E-A093-AF217DC1734D}.Debug|x86.ActiveCfg = Debug|x86
+		{1E764C39-589D-4B3E-A093-AF217DC1734D}.Debug|x86.Build.0 = Debug|x86
+		{1E764C39-589D-4B3E-A093-AF217DC1734D}.Release|x86.ActiveCfg = Release|x86
+		{1E764C39-589D-4B3E-A093-AF217DC1734D}.Release|x86.Build.0 = Release|x86
+		{40BFC08A-E941-4C76-8FC2-80BBE706789F}.Debug|x86.ActiveCfg = Debug|x86
+		{40BFC08A-E941-4C76-8FC2-80BBE706789F}.Debug|x86.Build.0 = Debug|x86
+		{40BFC08A-E941-4C76-8FC2-80BBE706789F}.Release|x86.ActiveCfg = Release|x86
+		{40BFC08A-E941-4C76-8FC2-80BBE706789F}.Release|x86.Build.0 = Release|x86
+		{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A}.Debug|x86.ActiveCfg = Debug|x86
+		{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A}.Debug|x86.Build.0 = Debug|x86
+		{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A}.Release|x86.ActiveCfg = Release|x86
+		{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A}.Release|x86.Build.0 = Release|x86
+		{6060AE43-61B2-4FF8-8DC4-3372C012C332}.Debug|x86.ActiveCfg = Debug|x86
+		{6060AE43-61B2-4FF8-8DC4-3372C012C332}.Debug|x86.Build.0 = Debug|x86
+		{6060AE43-61B2-4FF8-8DC4-3372C012C332}.Release|x86.ActiveCfg = Release|x86
+		{6060AE43-61B2-4FF8-8DC4-3372C012C332}.Release|x86.Build.0 = Release|x86
+		{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4}.Debug|x86.ActiveCfg = Debug|x86
+		{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4}.Debug|x86.Build.0 = Debug|x86
+		{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4}.Release|x86.ActiveCfg = Release|x86
+		{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4}.Release|x86.Build.0 = Release|x86
+		{45913C08-74C0-463E-9B3F-F6856C40B628}.Debug|x86.ActiveCfg = Debug|x86
+		{45913C08-74C0-463E-9B3F-F6856C40B628}.Debug|x86.Build.0 = Debug|x86
+		{45913C08-74C0-463E-9B3F-F6856C40B628}.Release|x86.ActiveCfg = Release|x86
+		{45913C08-74C0-463E-9B3F-F6856C40B628}.Release|x86.Build.0 = Release|x86
+		{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6}.Debug|x86.ActiveCfg = Debug|x86
+		{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6}.Debug|x86.Build.0 = Debug|x86
+		{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6}.Release|x86.ActiveCfg = Release|x86
+		{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6}.Release|x86.Build.0 = Release|x86
+		{4851181C-36C9-43AF-A069-78DB1B26FE4F}.Debug|x86.ActiveCfg = Debug|x86
+		{4851181C-36C9-43AF-A069-78DB1B26FE4F}.Debug|x86.Build.0 = Debug|x86
+		{4851181C-36C9-43AF-A069-78DB1B26FE4F}.Release|x86.ActiveCfg = Release|x86
+		{4851181C-36C9-43AF-A069-78DB1B26FE4F}.Release|x86.Build.0 = Release|x86
+		{69B8252F-200A-47AF-BF32-E8050563CC78}.Debug|x86.ActiveCfg = Debug|x86
+		{69B8252F-200A-47AF-BF32-E8050563CC78}.Debug|x86.Build.0 = Debug|x86
+		{69B8252F-200A-47AF-BF32-E8050563CC78}.Release|x86.ActiveCfg = Release|x86
+		{69B8252F-200A-47AF-BF32-E8050563CC78}.Release|x86.Build.0 = Release|x86
+		{AC7D400D-18A0-4B54-93A8-A3DE999AD572}.Debug|x86.ActiveCfg = Debug|x86
+		{AC7D400D-18A0-4B54-93A8-A3DE999AD572}.Debug|x86.Build.0 = Debug|x86
+		{AC7D400D-18A0-4B54-93A8-A3DE999AD572}.Release|x86.ActiveCfg = Release|x86
+		{AC7D400D-18A0-4B54-93A8-A3DE999AD572}.Release|x86.Build.0 = Release|x86
+		{7CB410DB-C71B-4021-9334-B2836343FB7C}.Debug|x86.ActiveCfg = Debug|x86
+		{7CB410DB-C71B-4021-9334-B2836343FB7C}.Debug|x86.Build.0 = Debug|x86
+		{7CB410DB-C71B-4021-9334-B2836343FB7C}.Release|x86.ActiveCfg = Release|x86
+		{7CB410DB-C71B-4021-9334-B2836343FB7C}.Release|x86.Build.0 = Release|x86
+		{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4}.Debug|x86.ActiveCfg = Debug|x86
+		{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4}.Debug|x86.Build.0 = Debug|x86
+		{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4}.Release|x86.ActiveCfg = Release|x86
+		{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4}.Release|x86.Build.0 = Release|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Debug|x86.ActiveCfg = Debug|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Debug|x86.Build.0 = Debug|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Release|x86.ActiveCfg = Release|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Release|x86.Build.0 = Release|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Debug|x86.ActiveCfg = Debug|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Debug|x86.Build.0 = Debug|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Release|x86.ActiveCfg = Release|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Release|x86.Build.0 = Release|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Debug|x86.ActiveCfg = Debug|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Debug|x86.Build.0 = Debug|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Release|x86.ActiveCfg = Release|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Release|x86.Build.0 = Release|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Debug|x86.ActiveCfg = Debug|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Debug|x86.Build.0 = Debug|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Release|x86.ActiveCfg = Release|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Release|x86.Build.0 = Release|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Debug|x86.ActiveCfg = Debug|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Debug|x86.Build.0 = Debug|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Release|x86.ActiveCfg = Release|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Release|x86.Build.0 = Release|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Debug|x86.ActiveCfg = Debug|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Debug|x86.Build.0 = Debug|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Release|x86.ActiveCfg = Release|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Release|x86.Build.0 = Release|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Debug|x86.ActiveCfg = Debug|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Debug|x86.Build.0 = Debug|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Release|x86.ActiveCfg = Release|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Release|x86.Build.0 = Release|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Debug|x86.ActiveCfg = Debug|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Debug|x86.Build.0 = Debug|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Release|x86.ActiveCfg = Release|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Release|x86.Build.0 = Release|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Debug|x86.ActiveCfg = Debug|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Debug|x86.Build.0 = Debug|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Release|x86.ActiveCfg = Release|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Release|x86.Build.0 = Release|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Debug|x86.ActiveCfg = Debug|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Debug|x86.Build.0 = Debug|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Release|x86.ActiveCfg = Release|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Release|x86.Build.0 = Release|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Debug|x86.ActiveCfg = Debug|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Debug|x86.Build.0 = Debug|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Release|x86.ActiveCfg = Release|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Release|x86.Build.0 = Release|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Debug|x86.ActiveCfg = Debug|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Debug|x86.Build.0 = Debug|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Release|x86.ActiveCfg = Release|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Release|x86.Build.0 = Release|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Debug|x86.ActiveCfg = Debug|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Debug|x86.Build.0 = Debug|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Release|x86.ActiveCfg = Release|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Release|x86.Build.0 = Release|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Debug|x86.ActiveCfg = Debug|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Debug|x86.Build.0 = Debug|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Release|x86.ActiveCfg = Release|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B0A5378-A6B2-4E70-8092-5F7415D3B925} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{3E4DB178-1134-4833-BE97-E22F63386298} = {33E1F8EA-ED58-4A67-BFC6-6824CE731488}
+		{7887B4AC-6072-47E8-B89D-076A06229753} = {33E1F8EA-ED58-4A67-BFC6-6824CE731488}
+		{DF37EBEE-4127-41CD-950B-C66452248FAA} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{6DCFEC9E-D224-40C6-8B25-AE04DFF6B48D} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{E3F765CB-0D00-4CC4-A2BA-F485EF27ADB0} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{251ED4EC-1EE5-4381-86B2-B058C9D299CA} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{B593F267-7CD7-4134-9CE0-8E7F97F352DB} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{68426E71-F69D-414F-8222-B3AF66C40DFB} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{5709C0A8-9F9B-40CE-8157-38DA822BD769} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{8C125B01-C996-4DD5-9A97-43267818C747} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{43B02E22-AE63-419E-85A4-DC91B06A4C33} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{402234DD-FD3F-46BC-9B75-8485961AE439} = {3E4DB178-1134-4833-BE97-E22F63386298}
+		{0D64ECE2-2350-4FCF-99A6-169298BA61E4} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{89EB30EE-02CD-4243-8215-43989BA6A080} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{6CD72A23-8D50-4E1A-BF00-4A3BEF8BF01F} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{7C1E3CC8-A0C6-48F4-ABB4-0F032890617F} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{66009B9A-4453-4784-9717-C2D767151CB5} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{F24DAB7C-CAB8-44EF-A5A8-944FB9BB1196} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{243984EE-BB7F-4CD9-B18E-3D415137FF23} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{69942EED-AE30-4BBC-971C-4CA567B9FC8D} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{DA1AAC84-3BF3-4F26-B377-69B4118BCA21} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{1E764C39-589D-4B3E-A093-AF217DC1734D} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{40BFC08A-E941-4C76-8FC2-80BBE706789F} = {7887B4AC-6072-47E8-B89D-076A06229753}
+		{FB4ECE07-0D99-42E9-A63E-9E10F4B83E3A} = {366ECB83-1B7E-49CF-A4D3-D3D7169623D4}
+		{6060AE43-61B2-4FF8-8DC4-3372C012C332} = {366ECB83-1B7E-49CF-A4D3-D3D7169623D4}
+		{D1E92D9F-8C1A-450F-BC48-A88D7AC017B4} = {366ECB83-1B7E-49CF-A4D3-D3D7169623D4}
+		{45913C08-74C0-463E-9B3F-F6856C40B628} = {366ECB83-1B7E-49CF-A4D3-D3D7169623D4}
+		{51CD19FF-AC39-4FD7-BDFC-0F5B43630AF6} = {366ECB83-1B7E-49CF-A4D3-D3D7169623D4}
+		{366ECB83-1B7E-49CF-A4D3-D3D7169623D4} = {393D8DF7-4F4B-4A10-98BE-87805EC14BE0}
+		{3863A0DE-C922-4A92-B3F1-874843FFFE7B} = {393D8DF7-4F4B-4A10-98BE-87805EC14BE0}
+		{4851181C-36C9-43AF-A069-78DB1B26FE4F} = {3863A0DE-C922-4A92-B3F1-874843FFFE7B}
+		{69B8252F-200A-47AF-BF32-E8050563CC78} = {3863A0DE-C922-4A92-B3F1-874843FFFE7B}
+		{AC7D400D-18A0-4B54-93A8-A3DE999AD572} = {3863A0DE-C922-4A92-B3F1-874843FFFE7B}
+		{7CB410DB-C71B-4021-9334-B2836343FB7C} = {3863A0DE-C922-4A92-B3F1-874843FFFE7B}
+		{EFA01EE9-48B4-40BF-8DA7-0B9D63FFA1D4} = {3863A0DE-C922-4A92-B3F1-874843FFFE7B}
+		{CD85F2FD-46A1-412C-9760-B94DC4759F00} = {59A105FB-15CC-431E-8E80-33EAB4B4F315}
+		{2B3660E0-B664-422A-97D7-CD99CA94F9AE} = {59A105FB-15CC-431E-8E80-33EAB4B4F315}
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{B5E854A0-16CB-48BF-8446-2841A80524D3} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{802629CC-6983-4827-AE2C-E98FD454AAB9} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{493835AE-B81B-466A-9EE1-AE1649944F9B} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+	EndGlobalSection
+EndGlobal

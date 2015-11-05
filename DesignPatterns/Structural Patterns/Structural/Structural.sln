@@ -1,0 +1,120 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural_Examples", "Structural_Examples", "{CD85F2FD-46A1-412C-9760-B94DC4759F00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Real_World_Examples", "Real_World_Examples", "{2B3660E0-B664-422A-97D7-CD99CA94F9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "..\StructuralPatterns_RealWorldExamples\AdapterPattern\AdapterPattern.csproj", "{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "..\StructuralPatterns_RealWorldExamples\BridgePattern\BridgePattern.csproj", "{D9E98774-F23E-417A-BE08-2746DCE3CF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "..\StructuralPatterns_RealWorldExamples\CompositePattern\CompositePattern.csproj", "{B5E854A0-16CB-48BF-8446-2841A80524D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "..\StructuralPatterns_RealWorldExamples\DecoratorPattern\DecoratorPattern.csproj", "{0B197FF7-8D75-4B18-8162-D17130E07E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "..\StructuralPatterns_RealWorldExamples\FacadePattern\FacadePattern.csproj", "{3B028C35-2F67-4741-95E9-8B85AAEAB23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "..\StructuralPatterns_RealWorldExamples\FlyweightPattern\FlyweightPattern.csproj", "{BB47ED16-E564-4CB0-8566-38FCBD680FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "..\StructuralPatterns_RealWorldExamples\ProxyPattern\ProxyPattern.csproj", "{553219C1-1067-4E8F-985B-B3B39FE76DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "..\StructuralPatterns_StructuralCodeExamples\AdapterPattern\AdapterPattern.csproj", "{4EC4023A-FD50-4D96-A874-3FE78FC12374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "..\StructuralPatterns_StructuralCodeExamples\BridgePattern\BridgePattern.csproj", "{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "..\StructuralPatterns_StructuralCodeExamples\CompositePattern\CompositePattern.csproj", "{7539B299-3B20-40DC-BD66-5B2C93CECC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "..\StructuralPatterns_StructuralCodeExamples\DecoratorPattern\DecoratorPattern.csproj", "{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "..\StructuralPatterns_StructuralCodeExamples\FacadePattern\FacadePattern.csproj", "{802629CC-6983-4827-AE2C-E98FD454AAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "..\StructuralPatterns_StructuralCodeExamples\FlyweightPattern\FlyweightPattern.csproj", "{493835AE-B81B-466A-9EE1-AE1649944F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "..\StructuralPatterns_StructuralCodeExamples\ProxyPattern\ProxyPattern.csproj", "{2BDCC846-9BA5-41E4-B890-E608B970FD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Debug|x86.ActiveCfg = Debug|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Debug|x86.Build.0 = Debug|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Release|x86.ActiveCfg = Release|x86
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA}.Release|x86.Build.0 = Release|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Debug|x86.ActiveCfg = Debug|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Debug|x86.Build.0 = Debug|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Release|x86.ActiveCfg = Release|x86
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D}.Release|x86.Build.0 = Release|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Debug|x86.ActiveCfg = Debug|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Debug|x86.Build.0 = Debug|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Release|x86.ActiveCfg = Release|x86
+		{B5E854A0-16CB-48BF-8446-2841A80524D3}.Release|x86.Build.0 = Release|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Debug|x86.ActiveCfg = Debug|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Debug|x86.Build.0 = Debug|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Release|x86.ActiveCfg = Release|x86
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C}.Release|x86.Build.0 = Release|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Debug|x86.ActiveCfg = Debug|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Debug|x86.Build.0 = Debug|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Release|x86.ActiveCfg = Release|x86
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F}.Release|x86.Build.0 = Release|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Debug|x86.ActiveCfg = Debug|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Debug|x86.Build.0 = Debug|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Release|x86.ActiveCfg = Release|x86
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6}.Release|x86.Build.0 = Release|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Debug|x86.ActiveCfg = Debug|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Debug|x86.Build.0 = Debug|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Release|x86.ActiveCfg = Release|x86
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA}.Release|x86.Build.0 = Release|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Debug|x86.ActiveCfg = Debug|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Debug|x86.Build.0 = Debug|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Release|x86.ActiveCfg = Release|x86
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374}.Release|x86.Build.0 = Release|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Debug|x86.ActiveCfg = Debug|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Debug|x86.Build.0 = Debug|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Release|x86.ActiveCfg = Release|x86
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046}.Release|x86.Build.0 = Release|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Debug|x86.ActiveCfg = Debug|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Debug|x86.Build.0 = Debug|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Release|x86.ActiveCfg = Release|x86
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54}.Release|x86.Build.0 = Release|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Debug|x86.ActiveCfg = Debug|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Debug|x86.Build.0 = Debug|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Release|x86.ActiveCfg = Release|x86
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4}.Release|x86.Build.0 = Release|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Debug|x86.ActiveCfg = Debug|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Debug|x86.Build.0 = Debug|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Release|x86.ActiveCfg = Release|x86
+		{802629CC-6983-4827-AE2C-E98FD454AAB9}.Release|x86.Build.0 = Release|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Debug|x86.ActiveCfg = Debug|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Debug|x86.Build.0 = Debug|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Release|x86.ActiveCfg = Release|x86
+		{493835AE-B81B-466A-9EE1-AE1649944F9B}.Release|x86.Build.0 = Release|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Debug|x86.ActiveCfg = Debug|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Debug|x86.Build.0 = Debug|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Release|x86.ActiveCfg = Release|x86
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8DF77CE-8A05-4526-BBCB-05C50D23B1FA} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{D9E98774-F23E-417A-BE08-2746DCE3CF4D} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{B5E854A0-16CB-48BF-8446-2841A80524D3} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{0B197FF7-8D75-4B18-8162-D17130E07E4C} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{3B028C35-2F67-4741-95E9-8B85AAEAB23F} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{BB47ED16-E564-4CB0-8566-38FCBD680FC6} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{553219C1-1067-4E8F-985B-B3B39FE76DFA} = {2B3660E0-B664-422A-97D7-CD99CA94F9AE}
+		{4EC4023A-FD50-4D96-A874-3FE78FC12374} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{BAFB19BB-5467-4E9C-A6B9-8B0E0DB43046} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{7539B299-3B20-40DC-BD66-5B2C93CECC54} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{0DED77C1-6CB7-4D63-B7DB-7AC39DAF6FE4} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{802629CC-6983-4827-AE2C-E98FD454AAB9} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{493835AE-B81B-466A-9EE1-AE1649944F9B} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+		{2BDCC846-9BA5-41E4-B890-E608B970FD53} = {CD85F2FD-46A1-412C-9760-B94DC4759F00}
+	EndGlobalSection
+EndGlobal
